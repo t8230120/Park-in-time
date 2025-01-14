@@ -150,7 +150,7 @@ public class ParkingManager extends User {
         }
     }
 
-    public static void editParkingScanner scanner) {
+    public static void editParking(Scanner scanner) {
         System.out.println("You picked 3.Edit parking");
 
         System.out.print("Enter the parking id of the parking to edit: ");
