@@ -1,5 +1,3 @@
-USE park;
-
 CREATE TABLE Areas (
     area_id INT NOT NULL PRIMARY KEY,
     area_name NVARCHAR(255) NOT NULL,
