@@ -194,7 +194,7 @@ public class ParkingManager extends User {
                 System.out.println("No parking found with the given parking id.");
             }
         } catch (SQLException e) {
-            System.out.println("Error editing car: " + e.getMessage());
+            System.out.println("Error editing parking: " + e.getMessage());
         }  finally {
             try {
                 if (rs != null) rs.close();
