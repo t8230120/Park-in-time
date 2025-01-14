@@ -75,7 +75,7 @@ public class ParkingManager extends User {
         }
     }
 
-    public static void addCar(Scanner scanner) {
+    public static void addParking(Scanner scanner) {
         System.out.println("You picked 1.Add Parking");
 
         System.out.print("Enter parking id: ");
@@ -123,7 +123,7 @@ public class ParkingManager extends User {
         }
     }
 
-    public static void deleteCar(Scanner scanner) {
+    public static void deleteParking(Scanner scanner) {
         System.out.println("You picked 2.Delete parking");
 
         System.out.print("Enter the parking id of the parking to delete: ");
@@ -150,7 +150,7 @@ public class ParkingManager extends User {
         }
     }
 
-    public static void editCar(Scanner scanner) {
+    public static void editParkingScanner scanner) {
         System.out.println("You picked 3.Edit parking");
 
         System.out.print("Enter the parking id of the parking to edit: ");
