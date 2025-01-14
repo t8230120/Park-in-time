@@ -12,7 +12,7 @@ public class User {
         initializeDatabaseConnection();
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Welcome to the Parking System!");
+        System.out.println("Welcome to Park in Time!");
 
         System.out.print("Enter your username: ");
         String username = scanner.nextLine();
