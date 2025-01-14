@@ -19,8 +19,8 @@ public class User {
 
         if (authenticateUser(scanner, username)) {
             String userType = getUserType(username);
-            if ("employee".equalsIgnoreCase(userType)) {
-                Employee.main(null);
+            if ("customer".equalsIgnoreCase(userType)) {
+                Customer.main(null);
             } else if ("parking_manager".equalsIgnoreCase(userType)) {
                 ParkingManager.main(null);
             } else {
