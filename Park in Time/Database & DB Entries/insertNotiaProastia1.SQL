@@ -1,0 +1,18 @@
+INSERT INTO Areas VALUES (1, "Αττική", NULL)
+INSERT INTO Areas VALUES (11, "Νότια Προάστια", 1)
+INSERT INTO Areas VALUES (111, "Άγιος Δημητριος", 11)
+INSERT INTO Areas VALUES(112, "Βάρκιζα", 11)
+INSERT INTO Areas VALUES(113, "Βούλα", 11)
+INSERT INTO Areas VALUES(114, "Βουλιαγμένη", 11)
+INSERT INTO Areas VALUES(115, "Νέα Σμύρνη", 11)
+INSERT INTO Areas VALUES(116, "Παλαιό Φάληρο", 11)
+
+
+INSERT INTO Parking VALUES('111A', 'Λεωφόροσ Αγίου Δημητρίου 15,Αθήνα 173 43' , 50, 111 , 5, 09:00:00', '19:00:00', 'https://maps.app.goo.gl/HdAsY5nFba5ZxdBu7' )
+INSERT INTO Parking VALUES('111B', 'Πλατεία Αγίου Δημητρίου 4,Αθήνα 105 54' , 20, 111 , 4,'08:00:00', '03:00:00', 'https://maps.app.goo.gl/rsVfCqMXwtWaMQbt6)')
+INSERT INTO Parking VALUES('112A', 'Βάρκιζα,Βάρη 166 72', 50, 111 ,5 ,'00:00:00','24:00:00', 'https://maps.app.goo.gl/QMfrvZoUSS2LDwcG9')
+INSERT INTO Parking VALUES('113A','Λεωφόρος Κωνσταντίνου Καραμανλή 97,Βούλα 166 73', 20, 113,5 ,'00:00:00-24:00:00','https://maps.app.goo.gl/d81soSKBFWuqrqqB7')
+INSERT INTO Parking VALUES('114A','Parking Ορφέως 1 Βουλιαγμένη 166 71' , 40 , 114,5,'09:00:00', '21:00:00' , 'https://maps.app.goo.gl/73a5pjMHBZLdhqNC6')
+INSERT INTO Parking VALUES('115A', 'Αιγαίου 1, Νέα Σμύρνη 171 21', 50, 115, 2,70 , '00:00:00', '24:00:00', 'https://maps.app.goo.gl/ndvPbDYUjvLJYvoN8')
+INSERT INTO Parking VALUES('115B', 'Polis Park Πλ. Αθανασίου Καρύλλου, Νέα Σμύρνη 171 23 ', 50, 115,3 , '00:00:00', '24:00:00', 'https://maps.app.goo.gl/ryi3jqyR4Rx1M7ZY6')
+INSERT INTO Parking VALUES('116A', 'Παλαιό Φάληρο 175 61', 294, 116, 5, '00:00:00', '24:00:00', 'https://maps.app.goo.gl/ML2rjZ4WV9bmX9998')
