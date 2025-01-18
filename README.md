@@ -18,5 +18,4 @@
   - Ο Parking Manager έχει τις επιλογές να προσθέσει τις εξής πληροφορίες (add parking, delete parking, edit parking, exit app).
 # **Project Structure**
 
-Το Structure του project δεν εχει ολοκληρωθει λογω ετου οτι δεν υπηρξε τελικη μορφη του κωδικα 
- 
+Το structure του project δεν έχει ολοκληρωθεί λόγω του ότι δεν υπήρξε τελική μορφή του κώδικα. 
