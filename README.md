@@ -19,3 +19,7 @@
 # **Project Structure**
 
 Το structure του project δεν έχει ολοκληρωθεί λόγω του ότι δεν υπήρξε τελική μορφή του κώδικα. 
+# **UML**
+
+
+<img width="638" alt="Screenshot 2025-01-18 at 9 32 05 PM" src="https://github.com/user-attachments/assets/a562b93f-f0a8-414b-a666-0d8bd1f9ea3e" />
