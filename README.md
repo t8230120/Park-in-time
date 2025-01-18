@@ -12,7 +12,7 @@
 # **Οδηγίες Χρήσης**
 
 * Εγγραφή στην εφαρμογή (username, password, κωδικός)
-* Αν ο χρηστης βρισκεται στην κατηγορια Customer τοτε :
-  - Ο Customer προσθετη ως πληροφοριες στην εφαρμογη (add car,delete car,edit car,reserve parking,cancel parking,check active parking,exit app)
-* Αν ο χρησης βρισκεται στην κατηγορια Parking Manager τοτε :
-  - Ο ParkingManager εχει τις επιλογες να προσθεσει τις εξης πληροφοριες (add parking,delete parking,edit parking,exit app)
+* Αν ο χρήστης βρίσκεται στην κατηγορία Customer, τότε:
+  - Ο Customer έχει τις επιλογές να προσθέσει τις εξής πληροφορίες (add car, delete car, edit car, reserve parking, cancel parking, check active parking, exit app).
+* Αν ο χρήστης βρίσκεται στην κατηγορία Parking Manager, τότε:
+  - Ο Parking Manager έχει τις επιλογές να προσθέσει τις εξής πληροφορίες (add parking, delete parking, edit parking, exit app).
