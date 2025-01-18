@@ -16,3 +16,7 @@
   - Ο Customer έχει τις επιλογές να προσθέσει τις εξής πληροφορίες (add car, delete car, edit car, reserve parking, cancel parking, check active parking, exit app).
 * Αν ο χρήστης βρίσκεται στην κατηγορία Parking Manager, τότε:
   - Ο Parking Manager έχει τις επιλογές να προσθέσει τις εξής πληροφορίες (add parking, delete parking, edit parking, exit app).
+# **Project Structure**
+
+Το Structure του project δεν εχει ολοκληρωθει λογω ετου οτι δεν υπηρξε τελικη μορφη του κωδικα 
+ 
