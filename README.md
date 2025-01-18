@@ -8,3 +8,11 @@
 # **Οδηγίες εκτέλεσης και μεταγλώττισης**
 
 Λόγω του ότι δεν καταφέραμε να ολοκληρώσουμε την εφαρμογή, δεν μπορούμε να αναλύσουμε τομείς όπως είναι η μεταγλώττιση και η εκτέλεση του κώδικα.
+
+# **Οδηγίες Χρήσης**
+
+* Εγγραφή στην εφαρμογή (username, password, κωδικός)
+* Αν ο χρηστης βρισκεται στην κατηγορια Customer τοτε :
+  - Ο Customer προσθετη ως πληροφοριες στην εφαρμογη (add car,delete car,edit car,reserve parking,cancel parking,check active parking,exit app)
+* Αν ο χρησης βρισκεται στην κατηγορια Parking Manager τοτε :
+  - Ο ParkingManager εχει τις επιλογες να προσθεσει τις εξης πληροφοριες (add parking,delete parking,edit parking,exit app)
